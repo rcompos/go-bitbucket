@@ -1,4 +1,4 @@
-module github.com/ktrysmt/go-bitbucket
+module github.com/rcompos/go-bitbucket
 
 go 1.12
 
