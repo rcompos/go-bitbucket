@@ -21,6 +21,7 @@ type Repository struct {
 
 	Project     Project
 	Slug        string
+	Scm         string
 	Full_name   string
 	Description string
 	ForkPolicy  string
